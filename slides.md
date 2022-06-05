@@ -161,5 +161,3 @@ h1 {
 <img src="https://static.gujiakai.top/static/ppt/deep-learning/images/book_cover.jpg" class="bg-right abs-br">
 
 </div>
-
----
