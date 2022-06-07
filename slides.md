@@ -49,6 +49,8 @@ drawings:
 
 <!--
 大家好，今天我给大家带来的汇报主题是基于深度学习的Tesla股票预测模型。
+不知道大家对这张封面图是否熟悉，这位是Tesla的首席执行官(CEO)——ElonMusk。
+目前这个星球上面最有钱的男人。
 -->
 
 ---
@@ -74,15 +76,6 @@ drawings:
 </div>
 </div>
 
-<!--
-背景介绍，可额外扩展的点
-  - Elon Musk的财富缩水了近20%，在我的4月7日日记中，Elon Musk的财富是279.5$B，
-  现在其身价为219$B。
-  - Elon Musk的商业头脑、敢于冒险、高瞻远瞩，铸就了他的伟大。
-  - 从SpaceX到Tesla，再到Neuralink、Starlink，无不展现其野心与才华。
-  -
--->
-
 <style>
 h1 {
   background-color: #2B90B6;
@@ -94,6 +87,14 @@ h1 {
   -moz-text-fill-color: transparent;
 }
 </style>
+
+<!--
+背景介绍，可额外扩展的点
+  - Elon Musk的财富缩水了近20%，在我的4月7日日记中，Elon Musk的财富是279.5$B，
+  现在其身价为219$B。
+  - Elon Musk的商业头脑、敢于冒险、高瞻远瞩，铸就了他的伟大。
+  - 从SpaceX到Tesla，再到Neuralink、Starlink，无不展现其野心与才华。
+-->
 
 ---
 
@@ -163,3 +164,9 @@ h1 {
 <img src="https://static.gujiakai.top/static/slide/deep-learning/images/book_cover.jpg" class="bg-right abs-br">
 
 </div>
+
+<!--
+深度学习是基于数学之上的学科。
+只有建立在数学之上的科学才是真正的科学。
+学习要搞清楚学习这些科目的意义。只有知道学习这些东西的意义，你在学习的时候才会更加积极主动。
+ -->
