@@ -1,11 +1,11 @@
 ---
 titleTemplate: "深度学习汇报"
-favicon: "https://static.gujiakai.top/static/slide/deep-learning/images/favicon.png"
+favicon: "https://vip2.loli.io/2023/01/09/rp9Goldh3PwfXx8.webp"
 # try also 'default' to start simple
 theme: seriph
 # random image from a curated Unsplash collection by Anthony
 # like them? see https://unsplash.com/collections/94734566/slidev
-background: https://static.gujiakai.top/static/slide/deep-learning/images/elonmusk.jpg
+background: https://vip2.loli.io/2023/01/09/ritwoIPZ46R1kQ7.webp
 # apply any windi css classes to the current slide
 class: "text-center"
 # https://sli.dev/custom/highlighters.html
@@ -41,7 +41,7 @@ drawings:
   <button @click="$slidev.nav.openInEditor()" title="Open in Editor" class="text-xl icon-btn opacity-50 !border-none !hover:text-white">
     <carbon:edit />
   </button>
-  <a href="https://github.com/gujiakai-dev/slide-deep-learning" target="_blank" alt="GitHub"
+  <a href="https://github.com/jiakaiBot/slide-deep-learning" target="_blank" alt="GitHub"
     class="text-xl icon-btn opacity-50 !border-none !hover:text-white">
     <carbon-logo-github />
   </a>
@@ -71,7 +71,7 @@ drawings:
 
 <div>
 
-<img src="https://static.gujiakai.top/static/slide/deep-learning/images/tesla-stock.jpg" class="bg-right">
+<img src="https://vip2.loli.io/2023/01/09/WXviTKojAZcuS47.webp" class="bg-right">
 
 </div>
 </div>
@@ -133,7 +133,7 @@ h1 {
 </div>
 
 <div>
-<img src="https://static.gujiakai.top/static/slide/deep-learning/images/chart.jpg" class="bg-right">
+<img src="https://vip2.loli.io/2023/01/09/P4s8fEj9GoI2v6d.webp" class="bg-right">
 </div>
 </div>
 
@@ -161,7 +161,7 @@ h1 {
 
 <div>
 
-<img src="https://static.gujiakai.top/static/slide/deep-learning/images/book_cover.jpg" class="bg-right abs-br">
+<img src="https://vip2.loli.io/2023/01/09/NhmCR9B652IHalT.webp" class="bg-right abs-br">
 
 </div>
 
